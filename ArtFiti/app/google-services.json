@@ -1,0 +1,42 @@
+{
+  "project_info": {
+    "project_number": "164360278046",
+    "firebase_url": "https://artfiti-30a61.firebaseio.com",
+    "project_id": "artfiti-30a61",
+    "storage_bucket": "artfiti-30a61.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:164360278046:android:e9840f43837a7690",
+        "android_client_info": {
+          "package_name": "com.example.kelvi.artfiti"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "164360278046-1usqpe83gnsgqp3h4oh481j1nomcm1hf.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCL3u2y_u3-iQUtOF0zNk8hQTzd1VvKa8E"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 1,
+          "other_platform_oauth_client": []
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
